@@ -16,7 +16,7 @@ public class PlayerControllerX : MonoBehaviour
 
     private float normalStrength = 10; // how hard to hit enemy without powerup
     private float powerupStrength = 25; // how hard to hit enemy with powerup
-//bankai
+//bankai Yaseen goast
     private GameObject enemyGoal;
     public float goalInfluenceStrength =0.5f;
     public float goalPoweredInflunceStrength =0.85f;
